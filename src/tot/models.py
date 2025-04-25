@@ -2,7 +2,7 @@ import os
 import openai
 import backoff 
 
-default_model = "gpt-3.5"
+default_model = "gpt-4o"
 
 completion_tokens = prompt_tokens = 0
 
